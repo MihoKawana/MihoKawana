@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MihoKawana. I am Taiwanese-Japanese-Canadian but mainly speak English. 
 - 👀 I’m interested in learning some basic coding, predominently backend. 
 - 🌱 I’m currently learning about how to go about this
-- 💞️ I’m connecting to furher my knowledge about what decvelopers do
+- 💞️ I’m connecting to furher my knowledge about what developers do!
 - 📫 I can me reached on miho.kawana@gmail.com 
 
 <!---
